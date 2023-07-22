@@ -1,4 +1,5 @@
 # Windows
+[원본 링크](https://developer.apple.com/design/human-interface-guidelines/windows)
 
 > `Window`는 앱 또는 게임의 사용자 인터페이스를 표시하는 UI 요소가 포함되어 있습니다.
 
@@ -73,7 +74,7 @@ visionOS `window`는 수정할 수 없는 배경 [material](https://developer.ap
 #### `window`의 콘텐츠에 적합한 기본 모양을 표기 할 수 있도록 설계해야 합니다.
 예를 들어 슬라이드 창은 넓기 때문에 기본 Keynote 창은 넓고,
 대부분의 웹 페이지가 너비보다 훨씬 길기 때문에 기본 Safari 창은 높습니다.
-``
+
 #### 가능하면 사람들이 앱 `window` 크기를 조정할 수 있도록 허용해야 합니다.
 사람들은 공간을 맞춤 설정할 때 `window` 크기를 조정할 수 있다는 점을 높이 평가합니다. 
 적절한 경우 최소 및 최대 크기 값을 설정하여 사람들이 `window` 크기를 조정할 때 `window`가 계속 작동하고 보기 좋게 유지되도록 할 수 있습니다.
