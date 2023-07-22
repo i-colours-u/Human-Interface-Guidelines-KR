@@ -19,7 +19,7 @@ visionOS 앱에서 사람들은 서로 다른 수준의 [immersion(몰입도)](.
 [Passthrough](../Foundations/Immersive_experiences#Immersion-and-passthrough)는 기기의 외부 카메라에서 라이브 비디오를 제공하며, 사람들이 실제 주변 환경을 보면서 가상 콘텐츠와 상호 작용할 수 있도록 도와줍니다. 사람들이 주변 환경을 더 많이 또는 더 적게 보고 싶을 때 [Digital Crown](../Inputs/Digital_Crown)을 사용하여 `Passthrough`의 양을 조절할 수 있습니다.
 
 ### Spatial Audio
-비전 프로는 음향 및 시각 감지 기술을 결합하여 주변 환경의 음향 특성을 모델링하여 자동으로 공간에서 자연스러운 오디오 사운드를 만들어냅니다. 앱이 사용자의 주변 환경에 대한 정보 액세스 권한을 받으면 [Spatial Audio](https://developer.apple.com/design/human-interface-guidelines/playing-audio#visionOS)를 미세 조정하여 맞춤형 경험을 생생하게 구현할 수 있습니다.
+비전 프로는 음향 및 시각 감지 기술을 결합하여 주변 환경의 음향 특성을 모델링하여 자동으로 공간에서 자연스러운 오디오 사운드를 만들어냅니다. 앱이 사용자의 주변 환경에 대한 정보 액세스 권한을 받으면 [Spatial Audio](../Patterns/Playing-audio#visionOS)를 미세 조정하여 맞춤형 경험을 생생하게 구현할 수 있습니다.
 
 ### Focus and gestures
 일반적으로 사람들은 [눈](https://developer.apple.com/design/human-interface-guidelines/eyes)과 [손](https://developer.apple.com/design/human-interface-guidelines/gestures#visionOS)을 사용하여 Vision Pro와 상호 작용합니다. 사람들은 가상 개체를 바라보며 [focus](https://developer.apple.com/design/human-interface-guidelines/focus-and-selection)을 맞추고 탭과 같은 간접적인 제스처를 취하여 활성화하는 방식으로 대부분의 작업을 수행합니다. 또한 직접 제스처를 사용하여 손가락으로 터치하여 가상 객체와 상호 작용할 수도 있습니다.
