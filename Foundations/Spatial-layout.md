@@ -20,10 +20,10 @@
 
 
 #### 똑바로 봤을 경우
-https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/f9f1f040-a75c-4aee-8da5-0c3889795780
+https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/a9cf924f-00ed-42fc-8386-9c52e08bd9ba
 
 #### 비스듬히 봤을 경우
-https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/5c556f03-8c65-4efa-a7bc-96b214e75720
+https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/4dce5f32-8984-4a00-8c6c-634151fd703f
 
 - ### 콘텐츠를 착용자의 머리에 고정하지 마세요. 
 일반적으로 앱이 시야에 들어오는 것을 원하지만, 콘텐츠를 고정시켜 정면에 고정된 상태로 유지하면 특히 콘텐츠가 시야를 많이 가리고 주변 환경의 안정성을 떨어뜨리는 경우 사용자가 갇힌 느낌, 답답함, 불편함을 느낄 수 있습니다. 
@@ -52,7 +52,7 @@ SwiftUI를 사용하면 2D 창에서 보기에 시각 효과를 추가하여 깊
 3D 객체를 어디에나 표시하거나 3D 콘텐츠를 표시하는 컴포넌트인 `volume`을 사용할 수 있습니다. 
 volume은 창과 비슷하지만 눈에 보이는 프레임이 없습니다. 자세한 내용은 [Volumes](Windows.md#Volumes)을 참조하십시오.
 
-https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/7b2f11fb-68fe-4748-a371-57b6968ed516
+https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/d204786c-a27e-4ae2-8b2b-9351c5ba9984
 
 
 - ### 콘텐츠의 깊이를 정확하게 전달할 수 있는 시각적 단서를 제공하세요. 
@@ -76,13 +76,14 @@ visionOS는 두 가지 유형의 scale을 정의하여 깊이감을 유지하면
 
 `Dynamic scale(동적 배율)`은 콘텐츠가 사람과의 거리에 관계없이 편안하게 가독성을 유지하고 상호 작용할 수 있도록 도와줍니다. 특히, visionOS는 window가 착용자로부터 멀어지면 자동으로 창 배율을 높이고 창이 가까워지면 배율을 낮추어 모든 거리에서 window가 동일한 크기를 유지하는 것처럼 보이도록 합니다.
 
-https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/4242f82f-ea9b-47e3-9313-9dac8d167c19
+https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/b776f244-cd84-450e-83bf-0241a1039e83
 
 ---
 
 `Fixed scale(고정 배율)`은 물체가 사람과의 거리에 관계없이 동일한 배율을 유지한다는 의미입니다. 고정 배율 객체는 Z축을 따라 뷰어에서 멀어질수록 더 작게 표시되며, 이는 사람의 실제 주변 환경에 있는 객체가 가까이 있을 때보다 멀리 있을 때 더 작게 보이는 것과 유사합니다.
 
-https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/1c0c73df-c329-4ae1-8062-50816d638081
+https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/54b1dee9-353f-4452-ab94-dd46289ecd8c
+
 
 ---
 
