@@ -7,11 +7,13 @@
 
 ## 새롭게 업데이트 된 내용
 
+(가장 먼저 `visionOS`에 관련한 내용부터 번역을 진행하고, 이후부터 내용을 채워나가는 중입니다)
+
 | Designing for visionOS | Spatial layout | Immersive experiences |
 | ---- | ---- | ---- |
-|   [![](https://i.imgur.com/2wZAL5F.png)](./Platforms/Designing-for-visionOS)   |    [![](https://i.imgur.com/FcVD32n.png)](./Foundations/Spatial-layout)  |   [![](https://i.imgur.com/ExFBY99.png)](./Foundations/Immersive_experiences)  |     
+|   [![](https://i.imgur.com/2wZAL5F.png)](Platforms/Designing-for-visionOS)   |    [![](https://i.imgur.com/FcVD32n.png)](Foundations/Spatial-layout)  |   [![](https://i.imgur.com/ExFBY99.png)](Foundations/Immersive_experiences)  |     
 
 | Ornaments | Eyes | SharePlay |
 | ---- | ---- | ---- |
-|   [![](https://i.imgur.com/LQQ4U7P.png)](./Components/Menus-and-actions/Ornaments)   |    [![](https://i.imgur.com/mvxXPGn.png)](./Inputs/Eyes)  |   [![](https://i.imgur.com/lWTV4Nr.png)](./Technologies/SharePlay)  |     
+|   [![](https://i.imgur.com/LQQ4U7P.png)](Components/Menus-and-actions/Ornaments)   |    [![](https://i.imgur.com/mvxXPGn.png)](Inputs/Eyes)  |   [![](https://i.imgur.com/lWTV4Nr.png)](Technologies/SharePlay)  |     
 
