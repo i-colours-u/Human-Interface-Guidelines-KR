@@ -82,7 +82,7 @@ visionOS `window`는 수정할 수 없는 배경 [material](https://developer.ap
 #### 앱에서 사람들이 몰입하고 싶어할 만한 순간이나 콘텐츠를 찾아보세요. 
 앱이 대부분 `window`를사용하더라도 몰입형 기능을 제공 했을 때 더 효과적인 기능이 있을 수 있습니다.
 예를 들어 사진 앱에서 파노라마 사진을 확장된 보기로 열면 사용자가 사진 속에 있는 것처럼 느낄 수 있습니다.
-자세한 내용은 [Immersive experiences](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences)을 참조하세요.
+자세한 내용은 [Immersive experiences(몰입도 높은 경험)](../Foundations/Immersive_experiences)을 참조하세요.
 
 #### 항상 `window`의 시각적 경계가 포함된 `scene`의 크기와 일치하는지 확인하세요. 
 `scene`이 `window`의 가시적 크기를 초과하면 `window` 컨트롤이 잘못 배치되고 `window`가 예상한 대로 표시되지 않아 상호 작용이 어려워질 수 있습니다. 
