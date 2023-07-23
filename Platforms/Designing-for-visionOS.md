@@ -9,7 +9,7 @@
 `visionOS`용 앱이나 게임 디자인을 시작할 때는 플랫폼을 구분하는 기본적인 디바이스 특성과 패턴을 이해하는 것부터 시작하세요. 이러한 특성과 패턴을 활용하여 디자인 결정을 내리고 몰입도 높고 매력적인 경험을 제작할 수 있습니다.
 
 ### Space
-Apple Vision Pro는 [Windows](Windows.md#Windows), [Volumes](Windows.md#Volumes), 3D 물체와 같은 가상 콘텐츠를 볼 수 있는 무한한 캔버스를 제공하며, 다른 장소로 이동할 수 있는 [Immersive experiences(몰입도 높은 경험)](../Foundations/Immersive-experiences.md)을 선택할 수 있습니다.
+Apple Vision Pro는 [Windows](../Components/Presentation/Windows.md#Windows), [Volumes](../Components/Presentation/Windows.md#Volumes), 3D 물체와 같은 가상 콘텐츠를 볼 수 있는 무한한 캔버스를 제공하며, 다른 장소로 이동할 수 있는 [Immersive experiences(몰입도 높은 경험)](../Foundations/Immersive-experiences.md)을 선택할 수 있습니다.
 
 ### Immersion
 visionOS 앱에서 사람들은 서로 다른 수준의 [immersion(몰입도)](../Foundations/Immersive-experiences.md) 사이를 유동적으로 전환할 수 있습니다. 
@@ -45,7 +45,7 @@ Apple Vision Pro는 보이스오버, 스위치 제어, 드웰 제어, 가이드 
 `window` 중심의 UI 중심 컨텍스트, 완전 몰입형 컨텍스트 또는 그 중간 정도의 컨텍스트에서 경험을 제공할 수 있습니다. 앱의 각 주요 순간에 대해 가장 적합한 최소 [immersion(몰입도)](../Foundations/Immersive-experiences.md)를 찾아야 합니다. 모든 순간이 완전 몰입형이어야 한다고 가정하지 마세요.
 
 ### UI를 중심으로 구성된 경험을 제공하고 싶다면 `window`를 사용하세요.
-사람들이 표준 작업을 수행할 수 있도록 공간에서 평면으로 표시되고 익숙한 컨트롤이 포함된 표준 [windows](Windows.md#Windows)를 선호합니다. visionOS에서는 사용자가 원하는 위치에 `window`를 재배치할 수 있으며, 시스템의 [dynamic scaling](../Foundations/Spatial-layout.md#Scale) 기능을 통해 `window` 콘텐츠가 가까이 있든 멀리 있든 가독성을 유지할 수 있습니다.
+사람들이 표준 작업을 수행할 수 있도록 공간에서 평면으로 표시되고 익숙한 컨트롤이 포함된 표준 [windows](../Components/Presentation/Windows.md#Windows)를 선호합니다. visionOS에서는 사용자가 원하는 위치에 `window`를 재배치할 수 있으며, 시스템의 [dynamic scaling](../Foundations/Spatial-layout.md#Scale) 기능을 통해 `window` 콘텐츠가 가까이 있든 멀리 있든 가독성을 유지할 수 있습니다.
 
 ### 편안함을 우선시하세요.
 사람들이 앱이나 게임과 상호 작용할 때 편안하고 신체적으로 안정된 상태를 유지할 수 있도록 다음 기본 사항을 염두에 두세요.
