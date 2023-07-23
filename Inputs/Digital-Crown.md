@@ -18,4 +18,4 @@ Vision Pro에서 사람들은 디지털 크라운을 사용하여 다음과 같�
   
 완전 몰입형 앱(즉, [FullImmersionStyle](https://developer.apple.com/documentation/SwiftUI/FullImmersionStyle) 을 사용하는 앱)에서는 디지털 크라운을 사용하여 앱을 종료할 수 있지만 몰입도에는 영향을 미치지 않습니다. 
 
-자세한 내용은 [Immersive experiences(몰입형 경험)](Immersive-experiences.md)을 참조하세요.
+자세한 내용은 [Immersive experiences(몰입형 경험)](../Foundations/Immersive-experiences.md)을 참조하세요.

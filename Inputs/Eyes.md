@@ -83,7 +83,7 @@ focus에 대한 자세한 지침을 확인하고 싶은 경우, [Focus and selec
 
 ### 연관 내용
 - [Focus and selection](https://developer.apple.com/design/human-interface-guidelines/focus-and-selection)
-- [Immersive experiences](Immersive-experiences.md)
+- [Immersive experiences](../Foundations/Immersive-experiences.md)
 - [Gestures](https://developer.apple.com/design/human-interface-guidelines/gestures)
 - [Spatial layout](..Foundations/Spatial-layout.md)
 

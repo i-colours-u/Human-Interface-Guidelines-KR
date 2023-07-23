@@ -66,7 +66,7 @@ visionOS `window`는 수정할 수 없는 배경 [material](https://developer.ap
 #### 익숙한 인터페이스를 제공하고 익숙한 작업을 지원하려면 표준 `window`을 사용하는 것을 권장합니다.
 
 사람들이 이미 익숙한 인터페이스를 표시하고 의미 있는 콘텐츠와 활동을 위해 더 몰입도 높은 경험을 예약하여 앱에서 집과 같은 편안함을 느낄 수 있도록 하세요. 
-자세한 내용은 [Immersive experiences](Immersive-experiences.md) 을 참조하세요. 게임 보드와 같이 경계가 있는 3D 콘텐츠를 표시하려면 `volume`을 사용하는 것이 좋습니다.
+자세한 내용은 [Immersive experiences](../../Foundations/Immersive-experiences.md) 을 참조하세요. 게임 보드와 같이 경계가 있는 3D 콘텐츠를 표시하려면 `volume`을 사용하는 것이 좋습니다.
 
 #### `window` 안의 빈 공간을 최소화 할 수 있는 초기 `window` 크기를 선택합니다.
 빈 공간이 너무 많으면 `window`가 불필요하게 커 보일 뿐만 아니라 사람들의 공간에 있는 다른 콘텐츠를 가릴 수 있습니다.
@@ -82,7 +82,7 @@ visionOS `window`는 수정할 수 없는 배경 [material](https://developer.ap
 #### 앱에서 사람들이 몰입하고 싶어할 만한 순간이나 콘텐츠를 찾아보세요. 
 앱이 대부분 `window`를사용하더라도 몰입형 기능을 제공 했을 때 더 효과적인 기능이 있을 수 있습니다.
 예를 들어 사진 앱에서 파노라마 사진을 확장된 보기로 열면 사용자가 사진 속에 있는 것처럼 느낄 수 있습니다.
-자세한 내용은 [Immersive experiences](Immersive-experiences.md)을 참조하세요.
+자세한 내용은 [Immersive experiences](../../Foundations/Immersive-experiences.md)을 참조하세요.
 
 #### 항상 `window`의 시각적 경계가 포함된 `scene`의 크기와 일치하는지 확인하세요. 
 `scene`이 `window`의 가시적 크기를 초과하면 `window` 컨트롤이 잘못 배치되고 `window`가 예상한 대로 표시되지 않아 상호 작용이 어려워질 수 있습니다. 
