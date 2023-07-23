@@ -1,7 +1,7 @@
 # Immersive experiences
 [원본 링크](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences)
 
->  visionOS에서는 `window`과 `volume`을 넘어 확장되는 앱과 게임을 디자인하고 사람들이 콘텐츠에 몰입할 수 있도록 할 수 있습니다.
+###  visionOS에서는 `window`과 `volume`을 넘어 확장되는 앱과 게임을 디자인하고 사람들이 콘텐츠에 몰입할 수 있도록 할 수 있습니다.
 
 ![](https://i.imgur.com/97QVR3r.png)
 

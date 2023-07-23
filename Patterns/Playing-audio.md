@@ -2,7 +2,7 @@
 # Playing audio
 [원문 보기](https://developer.apple.com/design/human-interface-guidelines/playing-audio)
 
-> 사람들은 기기에서 상황에 따라 자동으로 조정되는 풍부한 오디오 경험을 기대합니다.
+### 사람들은 기기에서 상황에 따라 자동으로 조정되는 풍부한 오디오 경험을 기대합니다.
 
 ![](https://i.imgur.com/L7D2EYU.jpg)
 

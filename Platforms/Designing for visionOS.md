@@ -2,7 +2,7 @@
 # Designing for visionOS
 [원본 링크](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos)
 
-> `Apple Vision Pro`를 착용하면 무한한 3D 공간에 들어가 주변 환경과 연결 상태를 유지하면서 앱과 게임을 즐길 수 있습니다.
+### `Apple Vision Pro`를 착용하면 무한한 3D 공간에 들어가 주변 환경과 연결 상태를 유지하면서 앱과 게임을 즐길 수 있습니다.
 
 ![](https://i.imgur.com/bqt0iGU.jpg)
 

@@ -1,7 +1,7 @@
 # Digital Crown
 [원문 보기](https://developer.apple.com/design/human-interface-guidelines/digital-crown)
 
-> 디지털 크라운은 Apple Vision Pro 및 Apple Watch의 중요한 하드웨어 입력 장치입니다.
+### 디지털 크라운은 Apple Vision Pro 및 Apple Watch의 중요한 하드웨어 입력 장치입니다.
 
 ![](https://i.imgur.com/ofPyngb.png)
 Apple Vision Pro와 Apple Watch 모두에서 사용자는 디지털 크라운을 사용하여 시스템과 상호 작용할 수 있으며, Apple Watch에서는 디지털 크라운을 사용하여 앱과 상호 작용할 수도 있습니다.
