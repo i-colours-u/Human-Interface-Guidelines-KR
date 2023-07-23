@@ -17,7 +17,7 @@ https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/512
 
 Apple Vision Pro를 착용한 상태에서는 기기의 외부 카메라에서 실시간 비디오를 제공하는 패스스루를 사용하여 주변 환경을 볼 수 있습니다.
 
-주변 환경을 얼마나 많이 볼 수 있는지 변경하려면 [Digital Crown](../Inputs/Digital_Crown.md)을 사용하여 [Passthrough](../Foundations/Immersive_experiences.md#Immersion-and-passthrough)의 양을 조정합니다. 예를 들어, 근처의 물리적 물체와 상호 작용하거나 다른 디바이스에서 텍스트를 읽고 싶을 때는 [Passthrough](../Foundations/Immersive_experiences#Immersion-and-passthrough)를 늘리고, 환경을 불러오고 싶을 때는 [Passthrough](../Foundations/Immersive_experiences.md#Immersion-and-passthrough)를 줄일 수 있습니다.
+주변 환경을 얼마나 많이 볼 수 있는지 변경하려면 [Digital Crown](Digital-Crown.md)을 사용하여 [Passthrough](Immersive-experiences.md#Immersion-and-passthrough)의 양을 조정합니다. 예를 들어, 근처의 물리적 물체와 상호 작용하거나 다른 디바이스에서 텍스트를 읽고 싶을 때는 [Passthrough](Immersive-experiences.md#Immersion-and-passthrough)를 늘리고, 환경을 불러오고 싶을 때는 [Passthrough](Immersive-experiences.md#Immersion-and-passthrough)를 줄일 수 있습니다.
 
 https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/8c870ded-c2c5-49ef-84f7-b56474b425f2
 
