@@ -12,13 +12,15 @@
 ## Immersion-and-passthrough
 visionOS는 사람들이 앱이나 게임을 경험할 수 있는 다양한 방법을 제공하는 데 도움이 되는 몰입도 스펙트럼을 지원합니다. 이 스펙트럼에서 사람들의 물리적 환경의 가시성은 경험의 몰입도에 중요한 역할을 합니다.
 
-https://github.com/i-colours-u/HIG-Korean/assets/60260284/5a9d6552-23d9-4eca-89f5-463d0fcec303
+https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/512711f0-01e2-40ee-ad1d-09f8e861ddc5
+
 
 Apple Vision Pro를 착용한 상태에서는 기기의 외부 카메라에서 실시간 비디오를 제공하는 패스스루를 사용하여 주변 환경을 볼 수 있습니다.
 
 주변 환경을 얼마나 많이 볼 수 있는지 변경하려면 [Digital Crown](https://developer.apple.com/design/human-interface-guidelines/digital-crown)을 사용하여 [Passthrough](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences#Immersion-and-passthrough)의 양을 조정합니다. 예를 들어, 근처의 물리적 물체와 상호 작용하거나 다른 디바이스에서 텍스트를 읽고 싶을 때는 [Passthrough](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences#Immersion-and-passthrough)를 늘리고, 환경을 불러오고 싶을 때는 [Passthrough](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences#Immersion-and-passthrough)를 줄일 수 있습니다.
 
-https://github.com/i-colours-u/HIG-Korean/assets/60260284/f57aeba7-29d9-4619-ac45-680669c54538
+https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/8c870ded-c2c5-49ef-84f7-b56474b425f2
+
 
 
 > **중요**
