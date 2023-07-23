@@ -10,7 +10,7 @@
 (가장 먼저 `visionOS`에 관련한 내용부터 번역을 진행하고, 이후부터 내용을 채워나가는 중입니다.)
 | Designing for visionOS | Spatial layout | Immersive experiences |
 | ---- | ---- | ---- |
-|   [![](https://i.imgur.com/2wZAL5F.png)](Platforms/Designing-for-visionOS.md)   |    [![](https://i.imgur.com/FcVD32n.png)](Foundations/Spatial-layout.md)  |   [![](Immersive-experiences.md)  |     
+|   [![](https://i.imgur.com/2wZAL5F.png)](Platforms/Designing-for-visionOS.md)   |    [![](https://i.imgur.com/FcVD32n.png)](Foundations/Spatial-layout.md)  |   [![](https://i.imgur.com/97QVR3r.png)](Foundations/Spatial-layout.md)  |     
 
 | Ornaments | Eyes | SharePlay |
 | ---- | ---- | ---- |
