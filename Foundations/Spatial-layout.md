@@ -50,7 +50,7 @@ SwiftUI를 사용하면 2D 창에서 보기에 시각 효과를 추가하여 깊
 
 추가 깊이가 있는 콘텐츠를 표시해야 하는 경우 [RealityKit](https://developer.apple.com/documentation/RealityKit)을 사용하여 3D 객체를 만들 수 있습니다.
 3D 객체를 어디에나 표시하거나 3D 콘텐츠를 표시하는 컴포넌트인 `volume`을 사용할 수 있습니다. 
-volume은 창과 비슷하지만 눈에 보이는 프레임이 없습니다. 자세한 내용은 [Volumes](../Components/Presentation/Windows#Volumes)을 참조하십시오.
+volume은 창과 비슷하지만 눈에 보이는 프레임이 없습니다. 자세한 내용은 [Volumes](../Components/Presentation/Windows.md#Volumes)을 참조하십시오.
 
 https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/7b2f11fb-68fe-4748-a371-57b6968ed516
 
@@ -103,10 +103,10 @@ visionOS가 아닌 다른 플랫폼에서는 2D 디스플레이의 [resolution(�
 
 - ### 디지털 크라운을 통해 사용자의 시야에 최신 창을 표시할 수 있습니다.
 	사람들이 움직이거나 고개를 돌리면 원하는 위치에 콘텐츠가 더 이상 표시되지 않을 수 있습니다. 
-	이 경우 사람들은 눈앞에 있는 콘텐츠를 최신 상태로 표시하고 싶을 때 [Digital Crown](../Inputs/Digital_Crown)을 누를 수 있습니다. 앱은 이 동작을 지원하기 위해 아무것도 할 필요가 없습니다.
+	이 경우 사람들은 눈앞에 있는 콘텐츠를 최신 상태로 표시하고 싶을 때 [Digital Crown](../Inputs/Digital_Crown.md)을 누를 수 있습니다. 앱은 이 동작을 지원하기 위해 아무것도 할 필요가 없습니다.
 
 - ### 사람들이 쉽게 집중할 수 있도록 인터랙티브 구성 요소 주변에 충분한 공간을 확보하세요. 
-	사용자가 [눈](https://developer.apple.com/design/human-interface-guidelines/eyes)을 사용하여 인터랙티브 요소에 [focus(초점)](https://developer.apple.com/design/human-interface-guidelines/focus-and-selection)을 맞추면 visionOS는 시각적 호버 효과를 표시하여 원하는 요소임을 확인할 수 있도록 지원합니다. 인터랙티브 요소 주위에 충분한 공간을 확보하여 쉽고 편안하게 초점을 맞출 수 있도록 하는 동시에 호버 효과로 인해 다른 콘텐츠가 가려지는 것을 방지하는 것이 중요합니다. 예를 들어, [buttons](https://developer.apple.com/design/human-interface-guidelines/buttons#visionOS)의 중심이 60포인트 이상 떨어져 있도록 배치합니다.
+	사용자가 [눈](../Inputs/Eyes)을 사용하여 인터랙티브 요소에 [focus(초점)](https://developer.apple.com/design/human-interface-guidelines/focus-and-selection)을 맞추면 visionOS는 시각적 호버 효과를 표시하여 원하는 요소임을 확인할 수 있도록 지원합니다. 인터랙티브 요소 주위에 충분한 공간을 확보하여 쉽고 편안하게 초점을 맞출 수 있도록 하는 동시에 호버 효과로 인해 다른 콘텐츠가 가려지는 것을 방지하는 것이 중요합니다. 예를 들어, [buttons](https://developer.apple.com/design/human-interface-guidelines/buttons#visionOS)의 중심이 60포인트 이상 떨어져 있도록 배치합니다.
 
 - ### 사람들이 신체적 움직임을 최소화하거나 전혀 하지 않고 앱을 사용할 수 있도록 하세요. 
 신체적 움직임이 필수적인 경우가 아니라면, 모든 사람이 고정된 상태에서 앱을 즐길 수 있도록 하세요.
@@ -114,7 +114,7 @@ visionOS가 아닌 다른 플랫폼에서는 2D 디스플레이의 [resolution(�
 - ### 바닥을 활용하여 대형 몰입형 경험을 배치할 수 있습니다.
 몰입형 경험에 바닥에서 위로 확장되는 콘텐츠가 포함된 경우 평평한 수평면(flat horizontal)을 사용하여 콘텐츠를 배치합니다. 이 평면을 바닥과 정렬하면 주변 환경과 매끄럽게 어우러져 보다 직관적인 경험을 제공할 수 있습니다.
 
-visionOS의 window 및 volume에 대해 자세히 알아보려면 [indows > visionOS](https://developer.apple.com/design/human-interface-guidelines/windows#visionOS)를 참조하고, 창 내에 콘텐츠를 배치하는 방법에 대한 지침은 [Layout > visionOS](https://developer.apple.com/design/human-interface-guidelines/layout#visionOS)를 참조하세요.
+visionOS의 window 및 volume에 대해 자세히 알아보려면 [Windows > visionOS](https://developer.apple.com/design/human-interface-guidelines/windows#visionOS)를 참조하고, 창 내에 콘텐츠를 배치하는 방법에 대한 지침은 [Layout > visionOS](https://developer.apple.com/design/human-interface-guidelines/layout#visionOS)를 참조하세요.
 
 ## 플랫폼 고려사항
 - iOS, iPadOS, watchOS, tvOS, watchOS에는 해당되지 않습니다.
@@ -124,9 +124,9 @@ visionOS의 window 및 volume에 대해 자세히 알아보려면 [indows > visi
 ---
 
 ### 연관 내용
-- [Eyes](https://developer.apple.com/design/human-interface-guidelines/eyes)
+- [Eyes](../Inputs/Eyes.md)
 - [Layout](https://developer.apple.com/design/human-interface-guidelines/layout)
-- [Immersive experiences](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences)
+- [Immersive experiences](Immersive_experiences.md)
 
 ### 개발자 문서 참고
 - [Presenting windows and spaces](https://developer.apple.com/documentation/visionOS/presenting-windows-and-spaces)

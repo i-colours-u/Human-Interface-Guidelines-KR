@@ -22,7 +22,7 @@ iOS, tvOS 및 watchOS와 달리 visionOS, iPadOS 및 macOS에서는 일반적으
 
 아래 나와있는 가이드라인은 사용자가 별도의 개체로 보고 조작할 수 있는 `window`에 적용되는 사항입니다. 모든 플랫폼에서 `window`와 비슷하게 사용 할 수 있는 요소로는 [Alerts](https://developer.apple.com/design/human-interface-guidelines/alerts), [Panels](https://developer.apple.com/design/human-interface-guidelines/panels), [Popovers](https://developer.apple.com/design/human-interface-guidelines/popovers), [Sheets](https://developer.apple.com/design/human-interface-guidelines/sheets)가 있습니다.
 
-`Window`또는 `Scene` 내에 콘텐츠를 배치하는 방식은 [Layout](https://developer.apple.com/design/human-interface-guidelines/layout) 문서를 참고하세요. Apple Vision Pro 공간에 콘텐츠를 배치하는 지침은 [Spatial layout](https://developer.apple.com/design/human-interface-guidelines/spatial-layout)문서를 참고하세요.
+`Window`또는 `Scene` 내에 콘텐츠를 배치하는 방식은 [Layout](https://developer.apple.com/design/human-interface-guidelines/layout) 문서를 참고하세요. Apple Vision Pro 공간에 콘텐츠를 배치하는 지침은 [Spatial layout](../../Foundations/Spatial-layout.md)문서를 참고하세요.
 
 ---
 
@@ -56,7 +56,7 @@ visionOS `window`는 수정할 수 없는 배경 [material](https://developer.ap
 
 기본적으로 `window` 크기는 1306 x 734pt입니다. `window`가 처음 열리면 시스템은 착용자의 약 2미터 앞에 창을 배치하여 약 3미터의 가로 길이(width)를 제공합니다.
 
-또한 이 시스템은 표준 `window` 내의 보기 및 컨트롤에 하이라이트와 그림자를 추가하여 [depth]([depth](https://developer.apple.com/design/human-interface-guidelines/spatial-layout#Depth))을 부여하고 특히 사람들이 `window`를 비스듬히 볼 때 더욱 실감나게 느껴지도록 도와줍니다.
+또한 이 시스템은 표준 `window` 내의 보기 및 컨트롤에 하이라이트와 그림자를 추가하여 [depth(깊이)](../../Foundations/Spatial-layout.md#Depth)을 부여하고 특히 사람들이 `window`를 비스듬히 볼 때 더욱 실감나게 느껴지도록 도와줍니다.
 표준 창에 3D 콘텐츠를 표시할 수 있지만 콘텐츠가 `window` 표면에서 너무 멀리 확장되면 시스템에서 잘립니다. 더 깊은 3D 콘텐츠를 표시하려면 `volume`을 사용하십시오.
 
 ![](https://i.imgur.com/tDKlGkp.png)
@@ -66,7 +66,7 @@ visionOS `window`는 수정할 수 없는 배경 [material](https://developer.ap
 #### 익숙한 인터페이스를 제공하고 익숙한 작업을 지원하려면 표준 `window`을 사용하는 것을 권장합니다.
 
 사람들이 이미 익숙한 인터페이스를 표시하고 의미 있는 콘텐츠와 활동을 위해 더 몰입도 높은 경험을 예약하여 앱에서 집과 같은 편안함을 느낄 수 있도록 하세요. 
-자세한 내용은 [Immersive experiences](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences) 을 참조하세요. 게임 보드와 같이 경계가 있는 3D 콘텐츠를 표시하려면 `volume`을 사용하는 것이 좋습니다.
+자세한 내용은 [Immersive experiences](../../Foundations/Immersive_experiences.md) 을 참조하세요. 게임 보드와 같이 경계가 있는 3D 콘텐츠를 표시하려면 `volume`을 사용하는 것이 좋습니다.
 
 #### `window` 안의 빈 공간을 최소화 할 수 있는 초기 `window` 크기를 선택합니다.
 빈 공간이 너무 많으면 `window`가 불필요하게 커 보일 뿐만 아니라 사람들의 공간에 있는 다른 콘텐츠를 가릴 수 있습니다.
@@ -82,7 +82,7 @@ visionOS `window`는 수정할 수 없는 배경 [material](https://developer.ap
 #### 앱에서 사람들이 몰입하고 싶어할 만한 순간이나 콘텐츠를 찾아보세요. 
 앱이 대부분 `window`를사용하더라도 몰입형 기능을 제공 했을 때 더 효과적인 기능이 있을 수 있습니다.
 예를 들어 사진 앱에서 파노라마 사진을 확장된 보기로 열면 사용자가 사진 속에 있는 것처럼 느낄 수 있습니다.
-자세한 내용은 [Immersive experiences(몰입도 높은 경험)](../Foundations/Immersive_experiences)을 참조하세요.
+자세한 내용은 [Immersive experiences](../../Foundations/Immersive_experiences.md)을 참조하세요.
 
 #### 항상 `window`의 시각적 경계가 포함된 `scene`의 크기와 일치하는지 확인하세요. 
 `scene`이 `window`의 가시적 크기를 초과하면 `window` 컨트롤이 잘못 배치되고 `window`가 예상한 대로 표시되지 않아 상호 작용이 어려워질 수 있습니다. 

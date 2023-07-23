@@ -17,7 +17,7 @@ https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/512
 
 Apple Vision Pro를 착용한 상태에서는 기기의 외부 카메라에서 실시간 비디오를 제공하는 패스스루를 사용하여 주변 환경을 볼 수 있습니다.
 
-주변 환경을 얼마나 많이 볼 수 있는지 변경하려면 [Digital Crown](../Inputs/Digital_Crown)을 사용하여 [Passthrough](../Foundations/Immersive_experiences#Immersion-and-passthrough)의 양을 조정합니다. 예를 들어, 근처의 물리적 물체와 상호 작용하거나 다른 디바이스에서 텍스트를 읽고 싶을 때는 [Passthrough](../Foundations/Immersive_experiences#Immersion-and-passthrough)를 늘리고, 환경을 불러오고 싶을 때는 [Passthrough](../Foundations/Immersive_experiences#Immersion-and-passthrough)를 줄일 수 있습니다.
+주변 환경을 얼마나 많이 볼 수 있는지 변경하려면 [Digital Crown](../Inputs/Digital_Crown.md)을 사용하여 [Passthrough](../Foundations/Immersive_experiences.md#Immersion-and-passthrough)의 양을 조정합니다. 예를 들어, 근처의 물리적 물체와 상호 작용하거나 다른 디바이스에서 텍스트를 읽고 싶을 때는 [Passthrough](../Foundations/Immersive_experiences#Immersion-and-passthrough)를 늘리고, 환경을 불러오고 싶을 때는 [Passthrough](../Foundations/Immersive_experiences.md#Immersion-and-passthrough)를 줄일 수 있습니다.
 
 https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/8c870ded-c2c5-49ef-84f7-b56474b425f2
 
@@ -64,7 +64,7 @@ https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/8c8
 
 
 - #### 몰입도에 관계없이 사람들이 앱의 주요 순간에 몰입할 수 있도록 도와주세요.
-디밍, [motion(모션)](https://developer.apple.com/design/human-interface-guidelines/motion), [scale(스케일)](https://developer.apple.com/design/human-interface-guidelines/spatial-layout#Scale), [Spatial Audio(공간 오디오)](https://developer.apple.com/design/human-interface-guidelines/playing-audio#visionOS)와 같은 요소를 사용해서 사용자에게 힌트를 제공하세요.
+디밍, [motion(모션)](https://developer.apple.com/design/human-interface-guidelines/motion), [scale(스케일)](https://developer.apple.com/design/human-interface-guidelines/spatial-layout#Scale), [Spatial Audio(공간 오디오)](../Patterns/playing-audio#visionOS)와 같은 요소를 사용해서 사용자에게 힌트를 제공하세요.
 
 힌트를 제공한다면, 공유 공간의 `window`나 전체 공간의 완전 몰입형 경험 등 콘텐츠의 특정 영역에 사람들의 주의를 끌 수 있습니다. 사람들의 주의를 부드럽게 유도하는 미묘한 단서(힌트)부터 시작하여 앱의 중요한 순간에서 힌트를 더 강조하세요.
 
@@ -108,7 +108,7 @@ https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/8c8
 이러한 상황을 피하려면 올바른 API를 사용하여 몰입형 환경을 구현해야 사람들이 움직일 때 시스템이 적절하게 반응할 수 있습니다. [ImmersionStyle](https://developer.apple.com/documentation/SwiftUI/ImmersionStyle) 개발자 문서를 참조하세요.
 
 - #### 사람들의 시각적 편안함을 염두에 두어야 합니다.
-예를 들어, 앱이 전체 공간에서 실행되는 동안 3D 콘텐츠를 어디에나 배치할 수 있지만, 사람들의 [field of view(시야)](https://developer.apple.com/design/human-interface-guidelines/spatial-layout#Field-of-view) 내에 배치하는 것을 선호합니다.
+예를 들어, 앱이 전체 공간에서 실행되는 동안 3D 콘텐츠를 어디에나 배치할 수 있지만, 사람들의 [field of view(시야)](Spatial-layout#Field-of-view) 내에 배치하는 것을 선호합니다.
 
 또한 앱이 전체 공간에서 실행되는 동안에는 사람들이 익숙한 기준 프레임에 익숙하지 않을 수 있으므로 모션을 편안한 방식으로 표시해야 합니다. 자세한 내용은 [Motion](https://developer.apple.com/design/human-interface-guidelines/motion)을 참조하세요.
 
@@ -118,7 +118,7 @@ https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/8c8
 ---
 
 ### 연관 내용
-- [Spatial layout](https://developer.apple.com/design/human-interface-guidelines/spatial-layout)
+- [Spatial layout](Spatial-layout)
 - [Motion](https://developer.apple.com/design/human-interface-guidelines/motion)
 
 ### 개발자 문서 참고

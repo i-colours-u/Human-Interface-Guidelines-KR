@@ -34,13 +34,13 @@ focus에 대한 자세한 지침을 확인하고 싶은 경우, [Focus and selec
 사람들이 기기와 상호 작용하는 방식을 개인화하기 위해 사용하는 접근성 기능을 지원하도록 앱을 디자인하세요. 지침은 [Accessibility(접근성)](https://developer.apple.com/design/human-interface-guidelines/accessibility)을 참조하세요.
 
 - ### 시각적으로 편안하게 디자인하세요. 
-사람들이 사용해야 하는 개체가 [field of view(시야)](https://developer.apple.com/design/human-interface-guidelines/spatial-layout#Field-of-view) 내에 있는지 확인하여 사람들이 주요 작업을 수행할 수 있도록 도와주세요. 
+사람들이 사용해야 하는 개체가 [filed of view(시야)](../Foundations/Spatial-layout.md#Field-of-view)내에 있는지 확인하여 사람들이 주요 작업을 수행할 수 있도록 도와주세요. 
 
 앱이 공유 공간에서 실행되는 경우 시스템은 창과 볼륨을 편리한 위치에 자동으로 배치하고,
 
 앱이 전체 공간에서 실행되는 경우 앱 콘텐츠를 적절하게 배치할 수 있도록 사람의 머리 자세에 대한 정보에 대한 액세스를 요청해야 할 수 있습니다. 
 
-또한 넓은 영역이나 여러 단계의 깊이를 통해 사람들이 여러 번 빠르게 눈을 조정하지 않도록 하면 시각적으로 편안한 환경을 제공할 수 있습니다. 자세한 내용은 [Depth](https://developer.apple.com/design/human-interface-guidelines/spatial-layout#Depth)를 참조하세요.
+또한 넓은 영역이나 여러 단계의 깊이를 통해 사람들이 여러 번 빠르게 눈을 조정하지 않도록 하면 시각적으로 편안한 환경을 제공할 수 있습니다. 자세한 내용은 [Depth](..Foundations/Spatial-layout.md#Depth)를 참조하세요.
 
 - ### 콘텐츠를 편안한 시청 거리에 배치합니다. 
 예를 들어, 사람들이 오랜 시간 동안 콘텐츠를 읽거나 참여하는 동안 편안함을 유지하도록 하려면 콘텐츠를 최소 1미터 이상 떨어진 곳에 배치하세요. 
@@ -53,7 +53,7 @@ focus에 대한 자세한 지침을 확인하고 싶은 경우, [Focus and selec
 
 각 항목의 경계에 최소 16포인트의 여백을 사용하거나 항목의 중심이 항상 60포인트 이상 떨어져 있도록 배치하여 대화형 항목 사이에 충분한 공간을 확보할 수 있습니다. 
 
-추가적인 레이아웃 가이드는 [Layout](https://developer.apple.com/design/human-interface-guidelines/layout) 및 [Spatial layout](https://developer.apple.com/design/human-interface-guidelines/spatial-layout)을 참조하세요.
+추가적인 레이아웃 가이드는 [Layout](https://developer.apple.com/design/human-interface-guidelines/layout) 및 [Spatial layout](..Foundations/Spatial-layout.md)을 참조하세요.
 
 
 - ### 미묘한 시각적 단서를 사용하여 사람들이 가장 원할 것 같은 항목을 보도록 유도하세요. 
@@ -83,9 +83,9 @@ focus에 대한 자세한 지침을 확인하고 싶은 경우, [Focus and selec
 
 ### 연관 내용
 - [Focus and selection](https://developer.apple.com/design/human-interface-guidelines/focus-and-selection)
-- [Immersive experiences](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences)
+- [Immersive experiences](../Foundations/Immersive_experiences)
 - [Gestures](https://developer.apple.com/design/human-interface-guidelines/gestures)
-- [Spatial layout](https://developer.apple.com/design/human-interface-guidelines/spatial-layout)
+- [Spatial layout](..Foundations/Spatial-layout.md)
 
 ### 개발자 문서 참고
 - [Adopting best practices for privacy and user preferences](https://developer.apple.com/documentation/visionOS/adopting-best-practices-for-privacy)
