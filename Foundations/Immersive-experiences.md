@@ -51,7 +51,7 @@ https://github.com/i-colours-u/Human-Interface-Guidelines-KR/assets/60260284/8be
 
 ## Best practices
 - #### 다양한 앱 사용 방법을 제공하세요
-사람들이 자신의 경험을 자유롭게 선택할 수 있도록 하는 것 외에도, 사람들이 기기와 상호 작용하는 방식을 개인화할 수 있도록 [Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility) 기능을 앱에 설계하는 것이 중요합니다. [Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility) 개발자 문서를 참조하세요.
+사람들이 자신의 경험을 자유롭게 선택할 수 있도록 하는 것 외에도, 사람들이 기기와 상호 작용하는 방식을 개인화할 수 있도록 [Accessibility(접근성)](../Foundations/Accessibility.md) 기능을 앱에 설계하는 것이 중요합니다.[Accessibility(접근성)](../Foundations/Accessibility.md) 문서를 참조하세요.
 
 - #### 의미 있는 순간과 콘텐츠를 위해 Immersion(몰입) 상황을 잘 설계하세요.
 앱에서 모든 상황에서 몰입(Immersion)을 제공한다고 해서 이점을 누릴 수 있는 것은 아닙니다.

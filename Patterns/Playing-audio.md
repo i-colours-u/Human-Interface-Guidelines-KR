@@ -125,7 +125,7 @@ tvOS에서는 사용자가 앱 및 게임 내에서 상호 작용을 통해 오�
 
 > 중요
 > 
-> 모든 플랫폼에서와 마찬가지로 비전OS에서도 중요한 정보를 소리로만 전달하지 마세요. 항상 사람들이 앱을 이해하는 데 도움이 되는 추가 방법을 제공하세요. 지침은 [Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility)을 참조하십시오.
+> 모든 플랫폼에서와 마찬가지로 비전OS에서도 중요한 정보를 소리로만 전달하지 마세요. 항상 사람들이 앱을 이해하는 데 도움이 되는 추가 방법을 제공하세요. 지침은 [Accessibility(접근성)](../Foundations/Accessibility.md)을 참조하십시오.
 
 visionOS에서는 사용자가 앱 창을 닫으면 지금 재생 중 앱의 오디오 재생이 자동으로 일시 중지되고, 지금 재생 중 앱이 아닌 앱의 오디오는 사용자가 다른 앱으로 시선을 돌리면 사라질 수 있습니다.
 

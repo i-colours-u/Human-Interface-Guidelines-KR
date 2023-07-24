@@ -31,7 +31,7 @@ focus에 대한 자세한 지침을 확인하고 싶은 경우, [Focus and selec
 ## Best practices
 
 - ### 항상 사람들이 앱과 상호 작용할 수 있는 다양한 방법을 제공하세요. 
-사람들이 기기와 상호 작용하는 방식을 개인화하기 위해 사용하는 접근성 기능을 지원하도록 앱을 디자인하세요. 지침은 [Accessibility(접근성)](https://developer.apple.com/design/human-interface-guidelines/accessibility)을 참조하세요.
+사람들이 기기와 상호 작용하는 방식을 개인화하기 위해 사용하는 접근성 기능을 지원하도록 앱을 디자인하세요. 지침은[Accessibility(접근성)](../Foundations/Accessibility.md)을 참조하세요.
 
 - ### 시각적으로 편안하게 디자인하세요. 
 사람들이 사용해야 하는 개체가 [filed of view(시야)](../Foundations/Spatial-layout.md#Field-of-view)내에 있는지 확인하여 사람들이 주요 작업을 수행할 수 있도록 도와주세요. 
