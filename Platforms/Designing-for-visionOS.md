@@ -29,7 +29,7 @@ Vision Pro를 착용하는 동안 사람들은 현실과 가상의 모든 것을
 ### **Accessibility**
 Apple Vision Pro는 보이스오버, 스위치 제어, 드웰 제어, 가이드 액세스, 헤드 포인터 등과 같은 [Accessibility(접근성)](https://developer.apple.com/design/human-interface-guidelines/accessibility) 기술을 지원하므로 사용자가 자신에게 적합한 상호작용을 사용할 수 있습니다. 모든 플랫폼과 마찬가지로 비전OS에서도 시스템에서 제공하는 UI 구성 요소는 기본적으로 접근성을 지원하며, 시스템 프레임워크는 앱이나 게임의 접근성을 향상시킬 수 있는 방법을 제공합니다.
 
-> 드웰 제어(Dwell Control): 시선 또는 머리 추적 기술을 사용해 마우스 동작을 수행하는 것
+> 드웰 제어(Dwell Control): 일반적인 제어가 아닌 시선 또는 머리등 추적 기술을 사용해 마우스 동작을 수행하는 것
 
 
 ---
