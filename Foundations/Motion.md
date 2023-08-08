@@ -1,5 +1,5 @@
 # Motion
-모든 플랫폼에서 아름답고 유연한 모션은 인터페이스에 생동감을 불어넣어 상태를 전달할 수 있습니다. 또한, 모션은 피드백과 가이드를 제공하며, 사용자의 시각적 경험을 풍부하게 합니다.![A sketch of three overlapping diamonds, suggesting the movement of an element from left to right. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](https://docs-assets.developer.apple.com/published/1a0efd7807cfcba7a5821be86b20bafc/foundations-motion-intro@2x.png)
+## 모든 플랫폼에서 아름답고 유연한 모션은 인터페이스에 생동감을 불어넣어 상태를 전달할 수 있습니다. 또한, 모션은 피드백과 가이드를 제공하며, 사용자의 시각적 경험을 풍부하게 합니다.![A sketch of three overlapping diamonds, suggesting the movement of an element from left to right. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](https://docs-assets.developer.apple.com/published/1a0efd7807cfcba7a5821be86b20bafc/foundations-motion-intro@2x.png)
 
 많은 시스템 구성 요소에 모션이 자동으로 포함되므로 앱이나 게임 전체에서 친숙하고 일관된 경험을 제공할 수 있습니다. 사용자 지정 모션을 디자인할 때는 사람들이 방향을 잃지 않고 편안하게 사용할 수 있도록 의도적인 애니메이션을 선호하고, 사용자의 행동에 대한 명확한 피드백을 제공하며, 사용자가 부담스럽지 않게 인터페이스를 익힐 수 있도록 도와야 합니다.
 
@@ -31,7 +31,7 @@
 - iOS, iPadOS, macOS, tvOS는 해당 사항이 없습니다.
 
 ## visionOS
-visionOS에서 모션은 현재 상황(컨텍스트)을 미묘하게 전달하고, 정보에 주의를 집중시키고, 몰입형 경험을 풍부하게 만들 수 있습니다. [깊이](./Spatial-layout.md#Depth)와 결합된 모션은 사람들이 요소에 [집중(focus)](https://developer.apple.com/design/human-interface-guidelines/motion)할 때 필수적인 피드백도 제공합니다. 주의 분산, 혼란, 불편함을 유발하지 않으면서도 사람들이 받아들일 수 있는 방식으로 모션을 사용하는 것이 중요합니다.
+visionOS에서 모션은 현재 상황(컨텍스트)을 미묘하게 전달하고, 정보에 주의를 집중시키고, 몰입형 경험을 풍부하게 만들 수 있습니다. [깊이](./Spatial-layout.md#Depth)와 결합된 모션은 사람들이 요소에 [집중(focus)](https://developer.apple.com/design/human-interface-guidelines/focus-and-selection)할 때 필수적인 피드백도 제공합니다. 주의 분산, 혼란, 불편함을 유발하지 않으면서도 사람들이 받아들일 수 있는 방식으로 모션을 사용하는 것이 중요합니다.
 
 사람들은 Apple Vision Pro를 착용한 상태에서 [패스스루](./Immersive-experiences.md#Immersion-and-passthrough)를 사용하여 가상 콘텐츠와 상호 작용하는 동안 실제 주변 환경을 볼 수 있습니다. 주변 환경과 앱 콘텐츠를 동시에 볼 수 있기 때문에 가상 콘텐츠의 움직임으로 인해 자신이나 주변 환경이 움직이는 것처럼 느껴지면 불편함을 느낄 수 있습니다. 일반적으로 움직이는 가상 물체의 크기가 클수록 안정감을 유지하기가 더 어려울 수 있습니다.
 
